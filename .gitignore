@@ -1,0 +1,28 @@
+# Ignore .env file
+.env
+
+# Allow .env_example file
+!.env_example
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore log files
+*.log
+
+# Ignore coverage reports
+coverage/
