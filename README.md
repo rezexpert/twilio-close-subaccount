@@ -14,8 +14,8 @@ This project contains a Python script to update the status of a Twilio sub-accou
 Clone this repository to your local machine.
 
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/rezexpert/twilio-close-subaccount.git
+cd twilio-close-subaccount
 ```
 
 ### 2. Create a Virtual Environment
